@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30104.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "RNGDLL", "RNGDLL\RNGDLL.vcxproj", "{53EF9606-2F0B-4D62-AF15-88B86ACC7507}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53EF9606-2F0B-4D62-AF15-88B86ACC7507}.Debug|x64.ActiveCfg = Debug|x64
+		{53EF9606-2F0B-4D62-AF15-88B86ACC7507}.Debug|x64.Build.0 = Debug|x64
+		{53EF9606-2F0B-4D62-AF15-88B86ACC7507}.Debug|x86.ActiveCfg = Debug|Win32
+		{53EF9606-2F0B-4D62-AF15-88B86ACC7507}.Debug|x86.Build.0 = Debug|Win32
+		{53EF9606-2F0B-4D62-AF15-88B86ACC7507}.Release|x64.ActiveCfg = Release|x64
+		{53EF9606-2F0B-4D62-AF15-88B86ACC7507}.Release|x64.Build.0 = Release|x64
+		{53EF9606-2F0B-4D62-AF15-88B86ACC7507}.Release|x86.ActiveCfg = Release|Win32
+		{53EF9606-2F0B-4D62-AF15-88B86ACC7507}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6FA5752-B56C-44E5-AE59-82B814332332}
+	EndGlobalSection
+EndGlobal
